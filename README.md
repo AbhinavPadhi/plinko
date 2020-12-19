@@ -1,1 +1,1 @@
-# plinko
+# plinko project
